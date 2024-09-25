@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QALab1", "QALab1\QALab1.csproj", "{B743B9E4-4675-45F7-A0D5-C5D6125E447D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QALab1-tests", "QALab1-tests\QALab1-tests.csproj", "{23F5C784-201F-4870-BC1B-FDE665ADE40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B743B9E4-4675-45F7-A0D5-C5D6125E447D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B743B9E4-4675-45F7-A0D5-C5D6125E447D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B743B9E4-4675-45F7-A0D5-C5D6125E447D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B743B9E4-4675-45F7-A0D5-C5D6125E447D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F5C784-201F-4870-BC1B-FDE665ADE40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F5C784-201F-4870-BC1B-FDE665ADE40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F5C784-201F-4870-BC1B-FDE665ADE40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F5C784-201F-4870-BC1B-FDE665ADE40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
